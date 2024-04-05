@@ -13,8 +13,8 @@ Skills: UVM, Git, Linux, Scripting
 - 🌱 I love the outdoors
 - 📫 Reach me on [LinkedIn](www.linkedin.com/in/steph-vo)
 
-[![Stephanies's GitHub stats](https://github-readme-stats.vercel.app/api?username=stephvvo&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stephvvo&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Stephanies's GitHub stats](https://github-readme-stats.vercel.app/api?username=stephvvo&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stephvvo&show_icons=true&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--

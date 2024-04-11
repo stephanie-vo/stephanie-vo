@@ -4,13 +4,15 @@ I'm an **Engineering Physics** student at **McMaster University**, specializing 
 
 ## Technical Skills
 Languages: SystemVerilog, Verilog, C++, C+, Python, Perl, Tcl, MATLAB, Java
+
 EDA Tools: QuestaSim, Xilinx Vivado, Cadence Xcelium, Lattice Diamond
+
 Skills: UVM, Git, Linux, Scripting
+
 
 ## About me
 - 💻 Check out my personal website 
 - ✨ I’m currently working on FPGA Projects 
-- 🌱 I love the outdoors
 - 📫 Reach me on [LinkedIn](www.linkedin.com/in/steph-vo)
 
 [![Stephanies's GitHub stats](https://github-readme-stats.vercel.app/api?username=stephvvo&show_icons=true&theme=omni)](https://github.com/anuraghazra/github-readme-stats)

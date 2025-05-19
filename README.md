@@ -34,7 +34,7 @@
 
 - 🔭 Exploring **FPGA projects** and **hardware acceleration**
 - 🧪 Learning more about **RTL design**, **synthesis**, and **verification methodologies**
-- 💻 Portfolio: [stephanie-vo.github.io/website](https://stephanie-vo.github.io/website)
+- 💻 Portfolio: [stephvo.notion.site](https://stephvo.notion.site/Hi-I-m-Stephanie-Vo-1e9cfa89fac280079c0fcdd9256ac257)
 - 💼 LinkedIn: [linkedin.com/in/steph-vo](https://www.linkedin.com/in/steph-vo)
 
 ---

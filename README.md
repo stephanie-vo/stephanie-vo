@@ -6,8 +6,8 @@
 
 ---
 
-🎓 **Engineering Physics @ McMaster University**  
-🔬 Specializing in **Nanotechnology & Micro-Systems** with a focus on computer engineering</br>
+🎓 **Engineering Physics @ McMaster University** '25
+🔬 Specialized in **Nanotechnology & Micro-Systems** with a focus on computer engineering</br>
 
 ---
 

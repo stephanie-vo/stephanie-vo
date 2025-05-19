@@ -32,7 +32,7 @@
 
 ## 🌟 What I'm Up To
 
-- 🔭 Exploring **FPGA projects** and **hardware acceleration**
+- 🔭 Working on **FPGA projects**
 - 🧪 Learning more about **RTL design**, **synthesis**, and **verification methodologies**
 - 💻 Portfolio: [stephvo.notion.site](https://stephvo.notion.site/Hi-I-m-Stephanie-Vo-1e9cfa89fac280079c0fcdd9256ac257)
 - 💼 LinkedIn: [linkedin.com/in/steph-vo](https://www.linkedin.com/in/steph-vo)

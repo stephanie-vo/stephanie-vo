@@ -1,35 +1,49 @@
-### Hi there, I'm Stephanie👋👩‍💻
+<h1 align="center">✨ Hey there! I'm Stephanie 👩‍💻💫</h1>
 
-I'm an **Engineering Physics** student at **McMaster University**, specializing in Nanotechnology and micro-systems. I'm driven by the potential of semiconductor technology and physics to advance technology and solve complex problems.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F76A9E&center=true&width=435&lines=Engineering+Physics+Graduate+%F0%9F%92%BB;FPGA+%26+Embedded+Systems+Developer;Physics+Enthusiast!" alt="Typing SVG" />
+</p>
 
-## Technical Skills
-Languages: SystemVerilog, Verilog, C++, C, Python, Perl, Tcl, MATLAB, Java
+---
 
-EDA Tools: QuestaSim, Lattice IceCube2
+🎓 **Engineering Physics @ McMaster University**  
+🔬 Specializing in **Nanotechnology & Micro-Systems** with a focus on computer engineering</br>
 
-Skills: UVM, Git, Linux, Scripting
+---
 
+## 🧰 My Toolbox
 
-## About me
-- 💻 Check out my personal website 
-- ✨ I’m currently working on FPGA Projects 
-- 📫 Reach me on [LinkedIn](www.linkedin.com/in/steph-vo)
+### 👩‍💻 Programming & Scripting Languages  
+`SystemVerilog` • `Verilog` • `C++` • `C` • `Python` • `Perl` • `Tcl` • `MATLAB` • `Java` • `TCL`• `Perl` • `Bash`
 
-[![Stephanies's GitHub stats](https://github-readme-stats.vercel.app/api?username=stephanie-vo&show_icons=true&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stephanie-vo&show_icons=true&theme=omni&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### 🔧 Design & Verification Tools
+`UVM` • `QuestaSim` • `Vivado` • `Quartus Prime` • `Cadence Xcelium` • `Lattice iCEcube2`
 
+### ⚙️ Tools
+`Linux` • `Git` • `Jira` • `Jenkins`
 
-<!--
-**stephanie-vo/stephanie-vo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧪 Lab & Debugging Skills
+`Oscilloscope` • `Function Generator` • `Logic Analyzer` • `Circuit Analysis`
 
-Here are some ideas to get you started:
+### 🌐 Web Development
+`HTML` • `CSS` • `JavaScript` • `React`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌟 What I'm Up To
+
+- 🔭 Exploring **FPGA projects** and **hardware acceleration**
+- 🧪 Learning more about **RTL design**, **synthesis**, and **verification methodologies**
+- 💻 Portfolio: [stephanie-vo.github.io/website](https://stephanie-vo.github.io/website)
+- 💼 LinkedIn: [linkedin.com/in/steph-vo](https://www.linkedin.com/in/steph-vo)
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=stephanie-vo&show_icons=true&theme=omni&hide_border=true&border_radius=12" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephanie-vo&layout=compact&theme=omni&hide_border=true&border_radius=12"/>
+</div>
+
+---

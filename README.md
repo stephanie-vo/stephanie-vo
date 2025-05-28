@@ -14,7 +14,7 @@
 ## 🧰 My Toolbox
 
 ### 👩‍💻 Programming & Scripting Languages  
-`SystemVerilog` • `Verilog` • `C++` • `C` • `Python` • `Perl` • `Tcl` • `MATLAB` • `Java` • `TCL`• `Perl` • `Bash`
+`SystemVerilog` • `Verilog` • `C++` • `C` • `Python` • `MATLAB` • `Java` • `TCL`• `Perl` • `Bash`
 
 ### 🔧 Design & Verification Tools
 `UVM` • `QuestaSim` • `Vivado` • `Quartus Prime` • `Cadence Xcelium` • `Lattice iCEcube2`
